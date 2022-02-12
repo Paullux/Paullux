@@ -1,0 +1,25 @@
+{
+  "name": "paullux",
+  "version": "1.0.0",
+  "description": "Moi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paullux/Paullux.git"
+  },
+  "keywords": [
+    "Moi"
+  ],
+  "author": "Paullux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paullux/Paullux/issues"
+  },
+  "homepage": "https://github.com/Paullux/Paullux#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
