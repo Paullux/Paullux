@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/Paullux/Paullux#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "dotenv": "^16.0.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0",
+    "sleep-promise": "^9.1.0"
   }
 }

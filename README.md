@@ -67,7 +67,7 @@ src="https://img.shields.io/github/issues/Heficience/HSuperMenu?style=flat-squar
 src="https://img.shields.io/github/issues-pr/Heficience/HSuperMenu?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-      <td><a href="https://github.com/Heficience/Heficience-Launcher-Android"><b>Notre Launcher Android, sous le nom d'EasyPhone sur le Google PlayStore</b></a></td>
+      <td><a href="https://github.com/Heficience/Heficience-Launcher-Android"><b>Le Launcher Android, EasyPhone sur le Google PlayStore</b></a></td>
       <td><img alt="Stars"
 src="https://img.shields.io/github/stars/Heficience/Heficience-Launcher-Android?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks"
@@ -81,9 +81,14 @@ src="https://img.shields.io/github/issues-pr/Heficience/Heficience-Launcher-Andr
 </table>
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Voici les dernières infos publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @toursvaldeloiretourisme</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwM4YmZidTPkl2cfNmbfZSR3YUMwEjM20TZvZSUGRzSEFnVD1GZyQnMNh3axl0RYl1QLpEbCB3ThJDe0IVTMFWW2VTWykWd5QVQfBDM9g2bmQTL30jYjNmJBFUQBJ0ZNBDZmJUQ90GZlZCWUR0Z3hDWBNHcnJDcxNnezk1Y9MGav91Yu9lJwETM9QXYj91Yu9lJ0Vmbu4GZjJmZuEmbm5SMtEDesBnZu0WYydWY0Nnbp1Ddo91Yu91PnBnau42XyITOwcjM3UTOxEDMyEzM2ETOy8FOzUDMxkzM1UzM1QDM1IzX5ADN4ADNzcjMvADOwEDewgDMxA3L1MTZvUTMtUDO4IjLxUDdvY3L0Vmbu4GZjJmZuEmbm5SMtEDesBnZu0WYydWY0Nnbp9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMDOmZmY30DZpN3Xj52XmMzQClTRwIjN9U2bmEkeYpEOmx2MzNmN08GO4dEWI1md1lGSqtmVxZTLupnWJljNNR3U1sGUjd3XUF0XwATPo9mJ00yN9I2YjZSQBFUQCdWTwQmZCFUPtRWZm8FbIh0YfhVQnJUON9lUalWb4RVPjh2bfNmbfZSNwETP0F2YfNmbfZCdl5mLuR2YiZmLh5mZuETLxgHbwZmLtFmcnFGdz5Wa9QHafNmbf9zZwpmLu9FN1EjNzkTMxgzN2YDMxcDM1cDNfNTMzETMyADM5ADNzITM18FM3YTN2IzM3IzL1MTZvUTMtUDO4IjLxUDdvY3L0Vmbu4GZjJmZuEmbm5SMtEDesBnZu0WYydWY0Nnbp9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMDOmZmY30DZpN3Xj52XmUjMDlTRwIjN9U2bmElZCB1TjRnTMl1RKJ2VOhUdhVkYIh0M4QGRTRXVfhjSkNkU1E3dLhXSmVUOUF0XwATPo9mJ00yN9I2YjZSQBFUQCdWTwQmZCFUPtRWZmYmWp90V5gVQjNlUNhDa4pGTylXPjh2bfNmbfZSMxETP0F2YfNmbfZCdl5mLuR2YiZmLh5mZuETLxgHbwZmLtFmcnFGdz5Wa9QHafNmbf9zZwpmLu9VN2kjN4YTM5IDOwkDN2MzMyYDOfVTO4kTO0gDMxkDNyIjN38VMycTOwkjM3IzL1ETZvUTMtUDO4IjLxUDdvY3L0Vmbu4GZjJmZuEmbm5SMtEDesBnZu0WYydWY0Nnbp9yL6MHc0RHa" /></p>
+<p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
+@toursvaldeloiretourisme</a></p>
+<p></br></br>Actuellement le temps est : <b> 2°C, <i>clear sky</i></b></br> </p>
+<p></br></br>Aujourd'hui, le soleil
+s'est levé à <b>08:06</b> et se couchera <b>18:16</b>.</p>
 
-<h3>Où me retrouver</h3>
+<h3>Où me retrouver, mes réseaux :</h3>
 <p><a href="https://github.com/Paullux" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PaulWOISARD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/paul-woisard-147308b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
