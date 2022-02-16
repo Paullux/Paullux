@@ -4,7 +4,7 @@
 width="30"/> Hey ! Salut vous.</h1>
 
 
-<p> Bienvenu sur mon profil Github ! </br> Je m'appelle Paul et je developpe durant mon temps de loisirs, je vis à
+<p> Bienvenue sur mon profil Github ! </br> Je m'appelle Paul et je developpe durant mon temps de loisirs, je vis à
 	<img
 	src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Tours, France</b>
 </p>
@@ -81,7 +81,12 @@ src="https://img.shields.io/github/issues-pr/Heficience/Heficience-Launcher-Andr
 </table>
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
-
+<br><br>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMDOmZmY30DZpN3Xj52XmMUM5Q0MxIjN9U2bmEVSEFzNYdTT3FGbv52TBNjWPdUQyRjQCVzZGVlSjFTVshmb4Y3RyljYKp0XUF0XwATPo9mJ00yN9I2YjZSQBFUQCdWTwQmZCFUPtRWZmoFNENXdfhVQ0AlM1BFcxUXTKFWPjh2bfNmbfZCOwETP0F2YfNmbfZSbvNmLtFmcnFGdz5WauR2YuETLxcXY31CduVGdu92Yz1Ddo91Yu91PnBnau42X0MjNxMTOzQDOxQTN0QTM5MjN28lN1gDNzMTM1EzN1UzMyYTMfljN2QDO5MzNy8SNxU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLxcXY31CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;zgjZmJ2N9QWaz91Yu9lJFZ0MxQTMyYTPl9mJnd1YwxmYZp2T09VTTdmQNBnSitGcIZmdHJXa2ZTS2VUY39GN0QVVRdTMlhDVB9FMw0DavZCNtcTPiN2YmEUQBFkQn1EMkZmQB1TbkVmJFBDeHp0XYFUUtgUOuZnWBR0UY1zYo92Xj52XmATMx0DdhN2Xj52Xm02bj5SbhJ3ZhR3culmbkNmLx0SM3F2dtQnblRnbvN2c9QHafNmbf9zZwpmLu9lMykDM3IzN1kTMxAjMxMjNxkjMfhzM1ATM5MTN1MTN0ATNy8VOwQDOwQzM3IzLwgDMxgHM4ATMw9SNzU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLxcXY31CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwM4YmZidTPkl2cfNmbfZyM4EEO0EjM20TZvZSQyUFcqN1RxIzbFNHbyR3bJR1ZwNVa3IHUt9lTWlTbJdlN10GV6lVd1ADZfRVQfBDM9g2bmQTL30jYjNmJBFUQBJ0ZNBDZmJUQ90GZlZiY5gjbJlDWBlEOwhTTQhUYQV2b9MGav91Yu9lJ1ATM9QXYj91Yu9lJt92Yu0WYydWY0Nnbp5GZj5SMtEzdhdXL05WZ052bjNXP0h2Xj52X%2FcGcq5ibfRTNxYzM5ETM4cjN2ATM3ATN3QzXzEzMxEjMwATOwQzMyETNfBzN2UjNyMzNy8SNzU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLxcXY31CduVGdu92Yz9yL6MHc0RHa" /></p>
+<p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
+@toursvaldeloiretourisme</a></p>
+<br><br>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwM4YmZidTPkl2cfNmbfZCMGhDOGBjM20TZvZyZsRWQJdzXXhzaSZEMl1GT6lXe1QDMVVHMrhVdmdTULx0Z0ZlMtlmRNhWZfRVQfBDM9g2bmQTL30jYjNmJBFUQBJ0ZNBDZmJUQ90GZlZiSMZUOn9FWBd2UwUnURNkZ2YWQ9MGav91Yu9lJ2ATM9QXYj91Yu9lJt92Yu0WYydWY0Nnbp5GZj5SMtMDblhWL05WZ052bjNXP0h2Xj52X%2FcGcq5ibfFzM0MTOzgTO4YTO1EDOwUzM2UzXwUzN1QzM1kTN3QzNzUTOfljMxgTNwQzNy8SNzU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;zgjZmJ2N9QWaz91Yu9lJBF0N2QTMyYTPl9mJnpmUE9VQtYmNy8EZ0NlUw0GMNdkapZHNEh3TqZ3bfh2d4FlbYVzbvtmVxlDVB9FMw0DavZCNtcTPiN2YmEUQBFkQn1EMkZmQB1TbkVmJyYle3IUOYFEM6JXVEVTSGlnck1zYo92Xj52XmADMx0DdhN2Xj52Xm02bj5SbhJ3ZhR3culmbkNmLx0yMsVGatQnblRnbvN2c9QHafNmbfZCM4ATM4BDOwEzcfJnZfVTMl91ZwpWL0NHZ9AHdz9zZwpmLu9FNxQjNzETM4IjN2ATN1EzN2IjNfJTM3cDN5gTM1YDOyIjN08VN3ATNzEDN3IzL1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwM4YmZidTPkl2cfNmbfZiR5IERzEjM20TZvZyZ4EDUy8WW4VDUixmdpxWYUlFS58kc510TJN3bzdDUM1EOQl3ctpnaSN2X5QVQfBDM9g2bmQTL30jYjNmJBFUQBJ0ZNBDZmJUQ90GZlZiUYxERm1CWBBzcyF2TL1ETxEXY9MGav91Yu9lJwATM9QXYj91Yu9lJt92Yu0WYydWY0Nnbp5GZj5SMtMDblhWL05WZ052bjNXP0h2Xj52X%2FcGcq5ibfRzNwUTN5cTN2cjM1ITO1kTN3IzX4ADNwYDN1MDMwMjM4gTOfdDNxQDO4MzNy8SNxU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz9yL6MHc0RHa" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/villedetours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
@@ -91,8 +96,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/bienvivreatours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @bienvivreatours</a></p>
-
-<p></br></br>Actuellement le temps est : <b> 13°C, <i>overcast clouds</i></b></br> </p>
+<br>
+<p></br></br>Actuellement le temps est : <b> 12°C, <i>overcast clouds</i></b></br> </p>
 <p></br></br>Aujourd'hui, le soleil
 s'est levé à <b>08:01</b> et se couchera <b>18:21</b>.</p>
 
