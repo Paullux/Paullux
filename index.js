@@ -41,14 +41,18 @@ async function setWeatherInformation() {
 }
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('villedetours', 3);
-  DATA.img1 = instagramImages[0];
-  DATA.img2 = instagramImages[1];
-  DATA.img3 = instagramImages[2];
-  const instagramImages2 = await puppeteerService.getLatestInstagramPostsFromAccount('bienvivreatours', 3);
+  const instagramImages1 = await puppeteerService.getLatestInstagramPostsFromAccount('toursvaldeloiretourisme', 3);
+  DATA.img1 = instagramImages1[0];
+  DATA.img2 = instagramImages1[1];
+  DATA.img3 = instagramImages1[2];
+  const instagramImages2 = await puppeteerService.getLatestInstagramPostsFromAccount('villedetours', 3);
   DATA.img4 = instagramImages2[0];
   DATA.img5 = instagramImages2[1];
   DATA.img6 = instagramImages2[2];
+  const instagramImages3 = await puppeteerService.getLatestInstagramPostsFromAccount('bienvivreatours', 3);
+  DATA.img7 = instagramImages3[0];
+  DATA.img8 = instagramImages3[1];
+  DATA.img9 = instagramImages3[2];
 }
 
 async function generateReadMe() {
