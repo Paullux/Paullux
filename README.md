@@ -28,7 +28,7 @@ width="30"/> Hey ! Salut vous.</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
 <h3>Graph des contributions GitHub</h3>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Paullux&theme=react-dark&hide_border=true&area=true)
+<img src="https://activity-graph.herokuapp.com/graph?username=Paullux&theme=react-dark&hide_border=true&area=true" alt="contributions" />
 <br>
 <h3>Visite sur mon profil GitHub</h3>
 <img src="https://profile-counter.glitch.me/{Paullux}/count.svg" alt="Paullux :: Visitor's Count" />
@@ -110,7 +110,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @bienvivreatours</a></p>
 <br>
-<p></br></br>Actuellement le temps est : <b> 12°C, <i>clear sky</i></b></br> </p>
+<p></br></br>Actuellement le temps est : <b> 11°C, <i>overcast clouds</i></b></br> </p>
 <p></br></br>Aujourd'hui, le soleil
 s'est levé à <b>07:59</b> et se couchera <b>18:23</b>.</p>
 
