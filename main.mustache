@@ -25,7 +25,7 @@ width="30"/> Hey ! Salut vous.</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paullux&include_all_commits=true&count_private=true&show_icons=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <br>
 <h3>Mon top languages GitHub</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
 <br>
 <h3>Graph des contributions GitHub</h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=Paullux&theme=react-dark&hide_border=true&area=true" alt="contributions" />
