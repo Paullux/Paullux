@@ -22,7 +22,7 @@ width="30"/> Hey ! Salut vous.</h1>
 </p>
 <br>
 <h3>Mes stats GitHub</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=paullux&include_all_commits=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paullux&include_all_commits=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <br>
 <h3>Mon top languages GitHub</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
