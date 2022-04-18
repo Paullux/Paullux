@@ -22,7 +22,7 @@ width="30"/> Hey ! Salut vous.</h1>
 </p>
 <br>
 <h3>Mes stats GitHub</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paullux&include_all_commits=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paullux&include_all_commits=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <br>
 <h3>Mon top languages GitHub</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
@@ -114,9 +114,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la méttéo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/03n@2x.png"/>
 	</br>
-	<b> 17°C, <i>&emsp;ciel dégagé</i>
+	<b> 15°C, <i>&emsp;partiellement nuageux</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
