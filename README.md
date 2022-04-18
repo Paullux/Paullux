@@ -22,7 +22,7 @@ width="30"/> Hey ! Salut vous.</h1>
 </p>
 <br>
 <h3>Mes stats GitHub</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paullux&include_all_commits=true&count_private=true&show_icons=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paullux&include_all_commits=true&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <br>
 <h3>Mon top languages GitHub</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
@@ -110,9 +110,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @bienvivreatours</a></p>
 <br>
-<p></br></br>Actuellement le temps est : <b> 18°C, <i>ciel dégagé</i></b></br> </p>
-<p></br></br>Aujourd'hui, le soleil
-s'est levé à <b>07:03</b> et se couchera <b>20:49</b>.</p>
+
+<h3> Un point sur la méttéo en direct de Tours </h3><br>
+<p>Actuellement le temps est :
+	</br>
+	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+	<b> 17°C, <i>&emsp;ciel dégagé</i>
+	</b>
+</p>
+<p>Aujourd'hui, le soleil s'est levé à
+	<b>07:03</b> et se couchera
+	<b>20:49</b>.
+</p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
 <p><a href="https://github.com/Paullux" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PaulWOISARD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/paul-woisard-147308b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discord.gg/2dxKDJ2RNK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
