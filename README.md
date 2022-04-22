@@ -100,7 +100,7 @@ src="https://img.shields.io/github/issues-pr/Heficience/Heficience-Launcher-Andr
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
 <br><br>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;view?q&#x3D;%3DMSW6dFaNRmeVN3YSFjb8xHNkpXbqRnUhF1ZYhTcTRGM5k3YkNWUYNEOKZmbtV1duhjQtFEMSZVOroEeiZjVUJXQtpnc5E1V2wUTCx0S2pnRjF1bqVjayBVMrQnQrZzdyMEWzpHe4RnbN1GaKFDOtNnaBZUVyQlUHl0aahTOrEnQLpVbP9WcQVUO2FTTShDZTBjaHJVbZR0Z0UEdhdlcxwmQUl3NXl2NNxkbKRVWoNmNEtENrp3S3IEVCVTYDBHdI9UMEB3YoB1a8x3Uy4kcvFDckl0KzYXVPtGR1w0Q1gTeBZFUzlDS8xHUsl2SrMWSrQzKGlGNHt0NmNGdtRXSmNEOPplNDNmMyQXW2lVOipHcRxWMPV3RhVDVoF3KvV3NHRUWhdUSnNFZZ1WQWRXRzlTcl5mWjF1MLlzcyxGbWpFOo5EVw4kYlV1YyYjNShGVTxUeyRFWQVEUrEjeEVFaGVlcNl0NuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3lzK4ZGOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;view?q&#x3D;%3D%3DwI90zdYRFTUhWSKd1VxAHe6xEUyV2QDBDMtpHSnRGNxRlWZlzaXVTSFFUd5Q2dMZkYzYHdFRWVuVFcKRjSyRVcOFDWIZzczwHfl52QLFEMY1kaFlEf8VlbDdjNaZ2R8xnQWh0M3RlVTlHUzg3Z6VjbvF0a2gTRUhVRV12QygUSrp1d0NTQx4UTrVWYxpnRvRHMBZEaYdESwkTU4ZUYwYXWNdVVxsSRqllb3ckblFzKs9EViVnUrEVVwRjaLNDbIV0NxJUbnREZyl0Zjl2QwdjUsp1SwdWMOBVNyB1VKF1MrgVeJVHeBZVYxUlM5UmT6tUejBHd4BFM2VUehNTbGN3as1EURBjdaRDRZlXOBl0KXh1S6hTcGdETwE2T2VVO38Gb8xHTIBVN2R0U3dlTwd0RWFXTzlTbhhkYkdHWMFzcitGc5oVO1pFR25mNrUVYtF2NSRmeTp0QiN1YzUEU1EjeERFeGZ1bNl0NuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3lzK4ZGOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;view?q&#x3D;j0TP3hFVMRFaJp0VXFDc4pHTQJXZDNURxNnbnlzV0EHValVOrdVNv5ERlRmYOF2ZaZmYOZlQ4YFR4kTYEpHWiRVU3kXbsxHfQhVW1V3SBNTNnVHMzplRLpUOmdzRsVEcCRzVTZ1U5B1M4dme142bBtmN4UEVYVUVtNkMIl0aadHdzEUMO10alFWc6Z0b0BTQshGTDZFa1EFeGFWQZRWdTJTcv5UUlRGS4JXZxsCbPRlY1J1KRVlb0o2SzwGSFdTcC12ZERmcJd2YpNEc3IFbatEcnFjTQVjcQdlSRNzKYlXS1hXQWFWMVJTOl5keLl3YwRHeQBjdFlXYz0mRztGbNBVUwYnW0QUW5lTQJtyVYtke4EnRHxEMh9kdVlzNvxGf8xESQVjdEN1dX5Ec2cFWsl1Y502UulFW352S5hDTr5mQaxHfrpFR2JXZlVlYrYjNYFDRUl0V3MFZMVFU3EDREdlUGd1c3l0NuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3lzK4ZGOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/villedetours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @villedetours</a></p>
@@ -114,14 +114,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/01n@2x.png"/>
 	</br>
-	<b> 17°C, <i>&emsp;ciel dégagé</i>
+	<b> 9°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>06:57</b> et se couchera
-	<b>20:53</b>.
+	<b>06:56</b> et se couchera
+	<b>20:55</b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
