@@ -6,10 +6,10 @@ width="30"/> Hey ! Salut vous.</h1>
 
 <p> Bienvenue sur mon profil Github ! </br> Je m'appelle Paul et je developpe durant mon temps de loisirs, je vis à
 	<img
-	src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Tours, France</b>
+	src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Tours</b> en <b>France</b>.
 </p>
 
-<h3> Il m'arrive de coder en :</h3>
+<h3> Il m'arrive de coder en/avec :</h3>
 <p>
 	<img alt="C++" src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 	<img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=github-actions&logoColor=white" />
@@ -90,6 +90,17 @@ src="https://img.shields.io/github/issues/Heficience/Heficience-Launcher-Android
       <td><img alt="Pull Requests"
 src="https://img.shields.io/github/issues-pr/Heficience/Heficience-Launcher-Android?style=flat-square&labelColor=343b41"/></td>
     </tr>
+		<tr>
+			<td><a href="https://github.com/Paullux/FranceTV"><b>L'appli FranceTV pour Windows et/ou Linux</b></a></td>
+			<td><img alt="Stars"
+src="https://img.shields.io/github/stars/Paullux/FranceTV?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks"
+src="https://img.shields.io/github/forks/Paullux/FranceTV?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues"
+src="https://img.shields.io/github/issues/Paullux/FranceTV?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests"
+src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&labelColor=343b41"/></td>
+		</tr>
   </tbody>
 </table>
 
@@ -114,9 +125,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/04d@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
 	</br>
-	<b> 18°C, <i>&emsp;nuageux</i>
+	<b> 18°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
