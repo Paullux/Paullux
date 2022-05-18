@@ -11,16 +11,16 @@ width="30"/> Hey ! Salut vous.</h1>
 
 <h3> Il m'arrive de coder en/avec :</h3>
 <p>
-	<img alt="C++" src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-	<img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=github-actions&logoColor=white" />
-	<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 <br>
@@ -109,7 +109,7 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSPRlWcp1Wc4tER2IVNGRTTJFHR21UUyoEbJRFaztUdJdGU3xHf6xHft1mTK50TxokYxJGaKVkbY90YT5WbkhDVjFUdNZlWvx2KChmdwNFbQFFNOdzbmZ1V5s0aEJGcudWcLZ0SaxHfENkauFGeV1WOzkHURd0QstySkNHUWpGaKRXbjhlStNVMIl0Nx8GUzI3ay9kULRzZzI1Nr1GMqt2dDd2amRTbJRHcyd0atdUOIllalhFWyEDV5I3dWJXW1d2TUdkQolGZsRjMYFzUTlGc3sCf8d1a4c2QNJmU1EEU2wWU5sEcux0UFhja2VFTk92NRJUTwFlV4UkSnlFaCRmd5YnQxIFSiNTMChjeLZ1STVnNZBnQKpXOUFlcOZlMpBHSFp2Y1h1TrY2blxHfvV3NHRUWhdUSnNFZZ12ZWJ3c4kTcHhVWjFEWKlHOixGcapEOspER2t2KrUFZxtkNWVjaTlkMMNlYzsGU8xXMUNUW4FTV1lUS18WM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXdXOrgnZ4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TUpFXatFHeLRkNSVjR00USxRkdNNmUJhlVUxHfztUdJdGU3xHf65WR3pGe050KsZDb8xHZzlkdQ5kR1JnRkB1KmZEZohFRQh3bQVnZhhFduhHf8Jmb4QmNPtERppmTyNWV8xHUGtkW8xHRDpmbhhXVtlzM5BVUHNEbrsEZzBlVqhmS012YYpUbTFDSJdTMvB1MyRjcOJ3QvdmMSdzaVVFe0kGUXFTbvVES5cmcHtWbHlDSZpWZYhlMwQVOydnVylVdn9EVHJEapRGb0IDWxM1UpB3NrwHfXtGOnNUTiJVNBBlNsFVOLBnbMNVR4omdVxEZvdTUC1EcRZFOFp0ZZhmQkZXO2JUMShkYzEjQ4o3SWt0U1ZTWwJkS6lDVwInTWJTeyhURqNWdYVGf8F1blxHfvV3NHRUWhdUSnNFZZ1WQWx2YzlTcPNjWjNGSMNzditma5oFOpJEVx4kdlZVYpF2NTRnaUx0UiRlZQBDU8xXMqNkVwZ1V2BTS18WM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXdXOrgnZ4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TRNZlTLR1Zkd2RBRjQ3RzM3czU3QFbxcmYnlzVvF3UTRTWtZGOjZlb3QWTmxHfXFFUqB1QFlUMX5kUadETYZTWTFXa4ZHVOV2S2tSTwQVW0RFM8x3Yu1GcrdlYHl3SC5GakdEMWR2TulXM1BXM2smR4IDNHhVRBNlYygUSrF2aQlTOr9WTBNVYxo2Z0Q3MGBTb8xXZtRHSS5GR4MnWYxHftpmczdmeVtESIJTQZ90aroWS0dWYuJVd4omSrcXbFhUYTxmUuFXNLFVT4JUWMZ1dCF2cuJEOPtCR8xHWFRnM1wUZ4UHeRFUT2RTb1UkS6pUarlDf8RHVzcmSyoEc0YUTox2b2MlYPpVNFRzQtdkS3QWOiRFcRxWMPV3RhVDVoF3KvV3NHRUWhdUSnNFZZ12dWtWRjlzcLNjWjdnbMd3Y3wGbapEf8lmQEZHaxtiVk1mN2ElWEJVT5xEVZRURORTMUNEWSZlV2dXS18WM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXdXOrgnZ4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;jkleXhWTkpXVzNmUx4Gf8RDZ61ma0t2MzcmdGtkUkBTO5NGZjFFSTlzS5pXbZZUdjpkZ0VlQr5UcBFFVaFVYiN1Kn52bSZVdjlUc2BnaMdGdZF1RylXeytGNGRnR4QVbEh1c6hHe05WTthmSxgTbzpWQGVlMUJ1RJtmW4kzKxJ0Sa12TvFHUFljdx0kU4AVdsNnWjtGZEdWSV10UFhDdaNFZLdTewEVTM5mSUlFajZDRLRzd6t0NCRlQ1E2QwRHSPFDRwNGaQtGf8NlMOJ3bxAHZJtyM2V1TrRUNMNUN4kXQWB1c5gEf8BFbpt0Kjl0K0siRpRzRLdjZjRXb0lkZDhzTaZzQjJjM0lldZljY6BXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtdmVyNHO5E3RYl1YBhlS5hjYsBnWKhDbKRkdrtyKVRWcLZjV1o2UJJDTTJ2MrBFf8FDVDlFexUVdJlUNvFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3lzK4ZGOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIZp3Vo1EZ6V1cjJVMuxHf0QmetpGdYVHW48GbOJFZwkTejR2YRh2KjVWZmhFW1MDZXF0cthFZwsiSMxUNURleyIzZzQXWPlHOJtkYjNHf8l1TKV2V0k3YzIjeERGaoVXbEh1c6hHe05WTthmSxgTbzpWQGVlMUJ1RJtmW4kzKxJ0Sa12TvFHUFljdx0kU4kUZGlmYZBDZEd2bZt2Vq92TFdEV1REenNVTM5mSUlFajZDRLRzZ6t0NCRlQ1E2QwRHSPFDRwNGaQtGf8NlMOJ3bxAHZJtyM2V1TrRUNMNUN4kXQWB1c5gEf8BFbpt0Kjl0K0siRpRzRLdjZjRXb0lkZDhzTaZzQjJjM0lldZljY6BXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFkVsN2c5E3Tzo1YjhETzcnYrpWOahTaCRVMOZXZWFWahdzU0pGVMNlYUZGUwAFf8FjaDZFcWdldwkUNvFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3lzK4ZGOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMiWw0WQzYEepB3UiZWdtpHO3c0VrNGNkNFWvFneMRDcXpXc2pVOiV1V8xnazx0QvBDZWhWWU9EUvR2aEhUOjREUjJ2U4s0ZpxUcrsmTTBHVwdTQPZUeqZ0RqtSbYhVbyNzbjV3S3tyawI3awl3QLZEVFZFUxN3K540KNhXcGxWaLJTcvl0aRN3a1xHfDFDeKJkMLpENwhkZDVEf8tEODJ2dhh1aPt2Y2RVYkVHWrQ0S5I0RSNHeUFFcqNja2p3Txc0ajR3SwJ2UwkzTxFDek5EeEtCVF1ERwV2NOdTNSFFZ3k0M2g0aptEMBpVNxpGMrFmYyZjZJpEeLJ1TDhDUKRzSad0aDZ1NkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtdnVrV0Y5M3Szo1Y35GT3N2NsxmWKxHfpJER2hWcrYFZtZjNRpFRS1UeMRVWEVkT0EDVDhlUWZld3lUNvFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3lzK4ZGOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
@@ -130,7 +130,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 	</br>
 	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
 	</br>
-	<b> 17°C, <i>&emsp;ciel dégagé</i>
+	<b> 27°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
