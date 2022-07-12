@@ -114,7 +114,7 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIZp3Vo1EZ6V1cjJVMuxHf0QmetpGdzJHSoF2cL9EZwkTejR2YRh1Tz90UiBTYwcTdJxENXNUMwtCSxpmYUxkZ4JTOytyVUZTOLpFVzdmcWRWUl1WS5JmYIdHNsNDa21GRYNne4hHdu1UbopEb402cqFkRVJDVSdUSrpFO5sScCtkWt90bxBVR5YXMNJFOpNzMwQHNslFRn9GZGlme8x3KzhnW2xHfnF3MNxkbKRVWoNmNEtENrp3S3IEVCVTYDBHdI9UMEB3YoB1a8x3Uy4kcvFDckl0KzYXVPtGR1w0QKhTbzZlSzlDS8xHUsl2SrMWSrQzKGlGNHt0NmNGdtRXSmNEOPplNDNmMyQXW2lVOipHcRxWMPV3RhVDVoF3KvV3NHRUWhdUSnNFZZ1WQVJ3Y4kjbr4WWl1ESKp3ai5GaWBHOqpkax40NlVVZ5F3NSRHRStkMMFFZUBDU5FjaDlVOWZlc08WNwFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6RHU6hEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TVGFnepZVMaV1SHdEaaFXYa10T3JGZj5UeuFUe3EnVTljbVt0d2UEcmJWVzdTethzVOpFULR3YsNDO5MDbQlFbMlkelNlb4klUSNjcyc1UJx0Qsx2Uxx2MBBTOLB3aCp3YwMGSDB1N3VEf85GNBhTW8xnZ0kGdvhzaRNmasp1SGJ3ToV1Sad2bHF3VtxHfrgnQRRncT9WYaRndnpGcqp3RtpUcjVEW6d2RUdjMDxmU6VWN2UUSyMmWrckaCFHcMFTTQBFTiVlRrRUNYpnTzZ3ZF1UeVJzKFxmeKxHfWRHczc1ard0K1lTdRB3M3EjNXNjNaBXYsdXejNHdJh1S6hTcGdETwE2T2VVO38Gb8xHTIBVN2R0U3dlTwN1RYBXRNlTblhkWiVFWKhzYM52ZGVTOu5ER2lmNrUVZXZzNUpFVT50SMFVYQV0T3EjeEhFcWZla08WNwFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6RHU6hEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwI90zdvRnaWBTT5EWUMpUWo1GdjNkSPdTQLFHSBpHf8RXVaR2QXRUM8xXQzhFcalkY45mQzYXVzEHOENDRK52TVRnUwMkS0UWZ6djaKNTa3V3VVBFSpRnTpxEeIZEevpHdshlZKZlYvRkZ0wmW2FjcnRWZxoGdpRHOJlTUjpGbhVmbop3d4tUOz9mW2onM8xXONhFTIxHfRdGaFlDcndzN28WYBFUT0hEV3dHMKxmY5tGaE5kNMdGU6VFZrYUcVxEczYkZNtidzdESVRVcVNUOvZDNVpUMnhEf8RkTElUevNXdv1GaqZ1T2IHM4UjeohnNW52QOdzR1oXOS92KXVUY6BXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFEW0lFO8xXcH5WWiV1MLh3ZMt2Z1oUO1ZEVw4kZ1VVY1FXNSRHVSp0SMNVZmVEU4EjaBFVNWVVcn9WNwFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6RHU6hEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwI9UUTW50SUdGZndUQ0I0d0MzN3M1N8xnRx0mcBhWcwF3UTRTWtZ2a8xXRHN1YKlHUspVayhDTxgDMDJUMapEa2JnVzp3Uz8GW0dFf8lmTQllZaBXVrhzVGdVNqRkYrRDaKJDakdEMWR2TulXM1BXM3smR4IDNHhVRBNlYygUSrF2aQlTOr9WTBNVYxo2Z0Q3M5AjbwJmMrRlUuR0Sz9GSqV2VxIXSEdFSmJkMBl1TrtiaJR3ZhhUU1hjaKtydtVEShNFbS5Wc1sUUNhnQZxkV3JUYz5mQ480KExHfYVEdyUTSP50cwFVQNZHNtVTRKpnSptWO8xHdUNzZKJjSwRjRNhGbvZzUi9kW1UEND12RKdDZ5IGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbBVlcjhTOutibZVWTIpkerJmboZFc4omSqFjT3UWVllXc3IFdEJ1SywUUkRFMQlXMqNUW5YlVyRzb1AXM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXpHdQpHS4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwI9EVaxlWbxh3SEZjU1YENNlUcEZXTZJlVnFEVqFFT1l0ZQdHf8pnbxsyVkNHSXF1b4dHeNZVThxHfkVzNuh1KuF2RxcWbmJWN2skUu90V6B1Zxc3UPJEU2ZjTzg1YyVXU2tkRLpFf8R0Qq5WY4VVb4MTeQF1RDx2KLR2cQZlaopEdtNGWK12UxgUS3EzbQNjcRtUQulXSyNjU3sWUVd3ZYNVQztkVHNUa3F3Rr12R5gUWqVGWYJTMUljc3ZlcZV3ZPR1RChWakxGNygVMTNVawdzK8x3VrhzZD1kYSVTQQZTbB1US45GTTVEOqZXVMR2b3ElQNBXUWhTRKdWWoJEZ2ljdCFjUIJ2MxIEO6tkVLNVd2kFcCpke5QVUy5kVykGcIVkajVHT2VDWndzbsxHfMhEU1YHRTd3VOB3UHhFcF1UOtVGSaJWVYpEOjxkbnZUN54mTEZXa2sSVldlN3QlWUNlTLxUUhBVRPdTM6REWwZlVqRzb1AXM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXpHdQpHS4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSPF1kVOtEVnR2ZHFENCdHNzczNTdDWpBXUycGO0BXcTNFNZ1mZ44kSrNjdDFFWuFUdIlTTzhjREJUThdkYudjT0Qlb3hHTJFlWTxHfGBHf8lkamRzYVlUZ1YDTERlMrkDMoR2RwYFZP5WexUHcxczaGhjM0cEWFF0UiJDSJtWYrBVO5s2bNF0UhFjanRDdzkTRth1Rx8GaR5GRPdGUjJVYYlHdJdmYKhlQyEUWPt2KqlEdnF2MUVHOqp0K31WRIF2UsJlbxVzSR1EeClFTWdnQhNnbChzTrQEf8hVR0JTNJ9kTzBXUB1kd00WNFpkeKl2a5wHf0R1MnpkMKBXMChjeLZ1STVnNZBnQKpXOUFFTNhlMpBnQNp2Y1Jndro0clxHfvV3NHRUWhdUSnNFZZ1WQYRXW4wHfxdkbZJWVzsEenx0anVjS5UnRUBjTmVXVhVXc1IFdUJlSLx0UlZWRQhTMqFUU1YVVxd2b1AXM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXpHdQpHS4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/villedetours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @villedetours</a></p>
@@ -128,14 +128,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/01n@2x.png"/>
 	</br>
-	<b> 30°C, <i>&emsp;ciel dégagé</i>
+	<b> 18°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>06:11</b> et se couchera
-	<b>21:53</b>.
+	<b>06:12</b> et se couchera
+	<b>21:52</b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
