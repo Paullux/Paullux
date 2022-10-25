@@ -109,7 +109,7 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SPjpmVnNGayMnMPNGMXhneyMkR2k0d5AFZnZDdNNnWVJHR8xHThlGMTV0Ur40TZNjV0YUSK9Ef8djTKNTU4ZjNrQFTHVGTKRkcvd3cxd1dhBnNVpGMrplUYlDOTdUV5RUa6p0V3I3KRt2Kq50VHNFd5d0SLF3c3cGTr0EehZUQLpkM0BTOnV2YqZjMHZEaZxWbld1c3MWWtxmM38mQlVHTSJ3TRN2a3InN1MWaEdkQxcFZWN3UT9GVuhnN38kN2EVTopXR2VVe5YjN2A3YNlHT2VETRRkcVtCN3gjWw0EdwckdIhnaOJTV0wHfygVVpFmYyZjZJpEeLJ1TDhDUKRzSad0aDZFTkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFkV0FFO4Y3KzkFWZNDTycGTuxmQalDbWpXMOZXdVp1UxZDVoRFVCdlYUdFSrBVNGZkWWRHbVFHN0UTa1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0zYqZ1ZjhmMzJzTjBzV4pnMDZkNJtmTUJHbORXTzpVVyREf8xUY2MTUYdTZXR3ZpNkaxolUjRUNkF1V6xHfrlXZmVzQ4UkRyZzcSd3SlJ2S1g3MmBDbmt2VqhXdXhVbmNUcKd1NytSUrtiaOd1RTRXeHt0SxN3Nnx0KNhXYGF0SKJDdwkzZlNma2IzRGhWWOdFSoNncjFnbsJzNVdmU2QEVsJ3ZQZXRqlTNjlGRHJUMXRmVzlnUvRlb4ZzNPZjNR1Ea6VkdVlXO2YjNwNWT5xkdFxUUEJXVrQzN4oFMNRHMHZHS4pmTyUFN8xnMYVVahJmc2YWSKh3SS90Q4AlS0skWHt2QWdDZ5IGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbBV1bR1UOu9kbZV2dIxEO3JmbwJkW5omQqFjTu9kVhNlN3IFcUJ1TXdzUZZWROxHfOZkWVlTMVRHNJdDa1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnauMTenh2S1AlUThDNutEZQJENxNnWJZTUCFkNkZ1Y4NUQKJlcVZnYKlFdQF0KjpXZZZTcllkYIF3ZxFEUalmc0oncixmNm9WRzE3RUp1SqdWduNkNzxWMTl2UsxGZ6tmRlJDf8pFNv5UYwkGdjlldMRWMzhTWzNDZqxWYTNzbKdnQMFHaKF2R5pWO4EkaNpFS6FDVxkDe1IXYy9Wd6B1RaRFW1QnaBFXaI1WbE9UMHt2Y0tUN1ZUb3Z2cxEzYEpnc8xXWNVTeyVFUKJ3cvtmSuVVe4UEdqF2ZshjdxpnRqJUercDaNllewo1NTFXcNdzR1oXOS92KXVUY6BXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtdWVy92c5UnNYlVYVNDT69mcstmSwhTdaREMOdzTWFVcxZDWap3UKNFTRVGRF9UNOZkWShnVXJ3aZVDa1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
@@ -128,9 +128,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/01n@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/10n@2x.png"/>
 	</br>
-	<b> 13°C, <i>&emsp;ciel dégagé</i>
+	<b> 17°C, <i>&emsp;légère pluie</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
