@@ -109,12 +109,12 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TVI9WM2F3dGRkNSVjR00USxRkdNBjMVVlRqxHfRBVdJdGU3xHf6xHfthXS4Z2TkBXWxNjQ4EER1RGT1NzdXV2NLN0VoNFV2wWdPdkb1VWbmR0d1EGZjtUa21kYQVjdF9GZVNzSaxHfENkauFGeV1GOzkHURd0QstySkNHUWpGaKR3MEV0YUZGNIl0Nx8GUzI3YaVkdphDazI1NrhGbSNXaihlcI92VER0cxd0atdUOIllalhFWtBDV5I3dWJXW1d2TUdkQolGZsRjMYFzUTlGc3sCf8d1a4c2QNJmU1EEU202az5keux0UFhja2VFTk92NRJUTwFlV4UkSnlFaCRmd5YnQxIFSiNTMChjeLZ1STVnNZBnQKpXOUFlcOZlMpBHSFp2Y1h1TrY2blxHfvV3NHRUWhdUSnNFZZ12ZWN3bjhjcH5WWmFESLd3dMxmbCBXOpJFVw4ka1VVY2EnNRFDRU10Q3MVWUVlT4EjaDdFaxYVawQDNphneZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6pkdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL9UFSvFjdxdnREZjU1YENNlUcEZXTBdUSrNWVoFFU1l0ZQdHf8pHf8NjeuxmNHpkW0o2TGplVwUmdFt2MuFVY610VXhXekxUMxpEf8RETm9GUzQDNTRnUKh1KjlneyFHa44UVzskW8xHRDpmbhhXVthzM5BVUHNEbrsEZzBlVqhmS0NDRFNGVmRDSJdTMvB1Myd2NBdjM2cmURdzatVEM1lVbIp2SshGSpl0bHtWbHlDSZpWZYhlMxQVOydnVylVdn9EVHJEapRGb0IDWxM1UpB3NrwHfXtGOnNUTiJVNBBlNtt2cOpnbMNVR4omdVxEZvdTUC1EcRZFOFp0ZZhmQkZXO2JUMShkYzEjQ4o3SWt0U1ZTWwJkS6lDVRJnTWJTawhURqNWdQZ3KKNXZ8x3b1dzRElVYHl0ZTRWWtFFW19GO8xXbhNTWjFESKpHO3w2aWpFO1JFRx4kbPhVYTZjNYhGRS5kMMN1YmBzT5FDVEJFdxUFcvRDNphneZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6pkdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TVI9WM2F3dGRkNSVjR00USxRkdNFkQJ9WQFtSUQVXSnB1d8xneuxGOkJkNJJGe1QXQC1URshUdFN3MnZlQq5kR0t2RTJENyxEUu9WWSNVQ5cDVkhVNt50S8xncihWM5YnVzskW8xHRDpmbhhXVthzM5BVUHNEbrsEZzBlVqh2S0NDRFNGVmRDSJdTMvB1MyF1bZV1RvlmaSdzawRWRvF3TwgGUnJDU5dWcHtWbHlDSZpWZYh1RxQVOydnVylVdn9EVHJEapRGb0IDWxM1UpB3NrwHfXtGOnNUTiJVNBBlNs9GdOpnbMNVR4omdVxEZvdTUC1EcRZFOFp0ZZhmQkZXO2JUMShkYzEjQ4o3SWt0U1ZTWwJkS6lDVVxkThJTewZENqNWdYVGOl9WZ8x3b1dzRElVYHl0ZTRWWtFFWzV1c4EXZulVZF52S5QzNr9mQ1gzZkRUMOpWZYNWdLZjU4R1UMlnYRVGSF5Ef8FDRDNVMWZld08GNphneZNVZEZ0ZWdXS4JVe2w2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3ZUdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
 <br><br>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpoir.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1YjW3xHfFF0KU5mepRkaVhTcDB3ZKdDdFdFcNtUWM12MQBnaRFVMoZjZuZjZNZDe3lVdrhWOKZ3QtRHT2RFckp0a2xHfMRDUGJmZYNnVwdXMa9kShF0VmxUUUBFW1ona8xXV4k3YkdWazJHcndjS4Q1KuJFUHdXVJ1Gf8l0RrNVYQhEbzhlN2BFbrFndsd1Rzkkbl5kaQxHfBhDdwUzdip0dXlTbyoFTu12cFRnexxmdklURFljR8xnRyone3UTW6NlczkWdG50TrNEW4QXZLNUR8xHcIF2aRJDS4E2UxwHfLFWdD10YpJkTLNVeWdTc3EzYJR3QPZVMrREcsZHcrQDZBRGcnhlehtWbjBXU5YnepFjdThEf8VjZZBnM8xXOPR1MlNnaUp1RrNkVyt0U1pGcFd2QiNHf8ZXNYd2NvxGf8xESQVjdEN1dX5EcTdlV1VEO8xXcXhlYZlFSMdHM3sGaaBHOnpFR2lWdrUlY1FnNVFDRUt0SMFlYQVEU1EjeEFVOGZVan9GNphneZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6pkdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0DNzdXcOdGcXRUbopFVXpnbHZzKiZ3SFdlQMZldldVMYFkeDNTSDdzaDFmY1kWeyUVeWBDe5QGTFhXcy1GdQlkdhVmR5oHMSJWcPN0YaZEV0pFf8tENiBnZVJ2d34marQmYLR3RndFOrUXRQ50a3YGbPt0R3JlVnxHfJdUVTZHV6h3KXN2bCZlar0GatdlQ01mW4xkctdmWNtSOnRXW3NTOwNjVaBHN3dmN0IDbqhGOVlUR4siRzQkawNXU6RGWElXa4cWcr9kaJlzUHRlQ1kjMiVTTHdkMHNUbnZjcwhlQzpGUvZXV1IVYzZjRj1kaut0UDVVUxVFTPVzdshWY450V0ETMHNmb4VTd4JDerRTZmNHb0EmeshWYGd3QkRHdkRUbLJlYO10TqJnRjp2Y15GU8xnSzVGf89Wd3cERZF2RJd2UklVbnVVcVNHf8BXYYlVYJh0SxQjYudmT1kDbOpGMOxHfPZ1Y2YTNWBHVTp0UiNVW6VEU3EDREVFaWdVa4kENohneZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6pkdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0DNzdXcOdGcXRUbopFVXpnbHZzKipGZaRlWMZldldVMYFkeDNTUSpHVQ9WVrYjR2glMxsicGN2UFRnYzhFb2NFMDZWTh52Va1kbz1kWsVlQFlzTSNHViNVbmRVOFJHOkJ2S0d0ZXhzK1VEUOt2Nmx2TLd0dSZ1Z8xXSHV1U2Rle4tyVj9mQWp2KthWbXJkVHllQYJ2bopVTrUlTvd0T1RjbFtWcvZEOoZDNywmaohTVJVEOrY0MEpGczFlekhFR5lGOnF3aPpWS5M1RUJUN5IjY100RHJzRD12Z2IHcYJ0cqB1b2VVNSF2c2Y0YNpmbLN1QVFVcVx0T1cHboFGeOdFNxEzRj5Ge1UHeyg3a0UmZzxGNhpHboFmR3NEZ0RHZE12SSJmTN9kayZ0YqNWduBFf8p0clxHfvV3NHRUWhdUSnNFZZ12dVR3cjljbDhlWkFESKJDMixmaGpFOopkex4kbrUVU5t0NjljeTlUeiFlWiVFUrEjeERFeGd1bwQDNnhneZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V6pkdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/villedetours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @villedetours</a></p>
@@ -128,14 +128,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/09n@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/50n@2x.png"/>
 	</br>
-	<b> 6°C, <i>&emsp;bruine légère</i>
+	<b> 5°C, <i>&emsp;brouillard</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>08:26</b> et se couchera
-	<b>17:54</b>.
+	<b>08:25</b> et se couchera
+	<b>17:56</b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
