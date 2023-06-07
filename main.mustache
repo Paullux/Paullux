@@ -31,7 +31,7 @@ width="30"/> Hey ! Salut vous.</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
 <br>
 <h3>Graph des contributions GitHub</h3>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Paullux&theme=react-dark&hide_border=true&area=true" alt="contributions" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paullux&theme=react-dark" alt="contributions" />
 <br>
 <h3>Visite sur mon profil GitHub</h3>
 <img src="https://profile-counter.glitch.me/{Paullux}/count.svg" alt="Paullux :: Visitor's Count" />
