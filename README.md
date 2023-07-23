@@ -109,17 +109,17 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;c8fe8846b4a8b2636be85b1b3e5b24b1.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;81035479c852eec8eee6aa9a0a606bc1.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;5481c7e123266b81a6588c51ec9cdf2d.jpg" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;e8e8881c078644a353a1706205f5de20.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;62640a4558ddae511008d728ff1d15e1.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpoir.com&#x2F;v1&#x2F;429c6192d85ec9ef68c957d3209c65b5.jpg" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;9cf01fd841046093c7ccd9c4338ecd19.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;a857c4f3fbfa02dce9703b97a3fc2182.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;8551ebd8b784f8099f0ccdd3b0281788.jpg" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;6fdd5196909f4f578ce7bb69b2d38263.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;e8f76dd903725b37cea8481988ba4df6.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;242118e9fdf7b836301240f8e0155700.jpg" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/villedetours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @villedetours</a></p>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpoir.com&#x2F;v1&#x2F;e8b6b80af856edfa9364efaca00c8fba.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;f387f665e6d19a2d1401590fef134acd.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;916bbadb74e0759e751995f30dfd136f.jpg" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;30a3022713ad3ff907f00fb8cc4b28ab.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpoir.com&#x2F;v1&#x2F;e7653fe8e27b1bd7be933ed5154bd393.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpoir.com&#x2F;v1&#x2F;05e7cfca5541444bf6e0ab9fd2dcc214.jpg" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/bienvivreatours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @bienvivreatours</a></p>
@@ -128,9 +128,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/01n@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
 	</br>
-	<b> 17°C, <i>&emsp;ciel dégagé</i>
+	<b> 18°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
