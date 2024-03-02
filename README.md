@@ -128,14 +128,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/10n@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/01n@2x.png"/>
 	</br>
-	<b> 8°C, <i>&emsp;pluie modérée</i>
+	<b> 5°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>07:37</b> et se couchera
-	<b>18:42</b>.
+	<b>07:35</b> et se couchera
+	<b>18:43</b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
