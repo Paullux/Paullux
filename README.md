@@ -130,12 +130,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 	</br>
 	<img src="http://openweathermap.org/img/wn/01n@2x.png"/>
 	</br>
-	<b> 11°C, <i>&emsp;ciel dégagé</i>
+	<b> 3°C, <i>&emsp;ciel dégagé</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>06:51</b> et se couchera
-	<b>19:15</b>.
+	<b>06:49</b> et se couchera
+	<b>19:16</b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
