@@ -130,12 +130,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 	</br>
 	<img src="http://openweathermap.org/img/wn/50n@2x.png"/>
 	</br>
-	<b> 9°C, <i>&emsp;brouillard</i>
+	<b> 9°C, <i>&emsp;brume</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>07:45</b> et se couchera
-	<b>17:35</b>.
+	<b>07:47</b> et se couchera
+	<b>17:34</b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
