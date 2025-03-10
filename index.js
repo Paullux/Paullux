@@ -22,18 +22,12 @@ let DATA = {
  * Récupère les images des comptes Instagram publics via Puppeteer.
  */
 async function setImagesFromSources() {
+  console.log("📸 Récupération des images de Tours depuis des sources ouvertes...");
   try {
-    console.log("📸 Récupération des images de Tours depuis des sources ouvertes...");
-
     const images = await imageService.getImagesFromSources();
-
-    if (images.length > 0) {
-      DATA["img_tours_1"] = images[0] || "";
-      DATA["img_tours_2"] = images[1] || "";
-      DATA["img_tours_3"] = images[2] || "";
+    for (let i = 0; i < images.length; i++) {
+      DATA[`img_tours_${i + 1}`] = images[i] || "";
     }
-
-    console.log("✅ Images mises à jour avec succès !");
   } catch (error) {
     console.error("❌ Erreur lors de la récupération des images :", error);
   }
