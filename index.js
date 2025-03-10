@@ -2,6 +2,7 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fs = require('fs');
 const puppeteerService = require('./services/puppeteer.service');
+const fetch = require('node-fetch');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -17,46 +18,84 @@ let DATA = {
   }),
 };
 
+/**
+ * Récupère les images des comptes Instagram publics via Puppeteer.
+ */
 async function setInstagramPosts() {
-  const accounts = [
-    "toursvaldeloiretourisme",
-    "villedetours",
-    "bienvivreatours"
-  ];
+  const accounts = {
+    villedetours: 'villedetours',
+    bienvivreatours: 'bienvivreatours',
+  };
 
-  for (const username of accounts) {
-    const images = await puppeteerService.getLatestInstagramPostsFromAccount(username);
+  for (const [username, profile] of Object.entries(accounts)) {
+    console.log(`Récupération des images pour ${username}...`);
+    const images = await puppeteerService.getLatestInstagramPostsFromAccount(profile);
+    
     if (images.length > 0) {
       DATA[`img_${username}_1`] = images[0] || '';
       DATA[`img_${username}_2`] = images[1] || '';
       DATA[`img_${username}_3`] = images[2] || '';
     } else {
-      console.warn(`⚠️ Aucune image trouvée pour ${username}`);
+      console.warn(`Aucune image trouvée pour ${username}.`);
     }
   }
 }
 
-async function generateReadMe() {
-  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) {
-      console.error("❌ Erreur de lecture du fichier Mustache :", err);
-      return;
+/**
+ * Récupère la météo actuelle de Tours via OpenWeatherMap.
+ */
+async function setWeatherData() {
+  try {
+    const API_KEY = process.env.OPENWEATHER_API_KEY;
+    const CITY = 'Tours,FR';
+    const URL = `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${API_KEY}&units=metric&lang=fr`;
+
+    const response = await fetch(URL);
+    const weatherData = await response.json();
+
+    if (weatherData.cod === 200) {
+      DATA.city_weather = weatherData.weather[0].description;
+      DATA.city_temperature = Math.round(weatherData.main.temp);
+      DATA.city_weather_icon = `http://openweathermap.org/img/wn/${weatherData.weather[0].icon}@2x.png`;
+
+      // Convertir timestamp Unix en heure locale
+      const sunRiseTime = new Date(weatherData.sys.sunrise * 1000);
+      const sunSetTime = new Date(weatherData.sys.sunset * 1000);
+
+      DATA.sun_rise = sunRiseTime.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+      DATA.sun_set = sunSetTime.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+
+      console.log('✅ Météo mise à jour avec succès.');
+    } else {
+      console.error('❌ Erreur lors de la récupération de la météo :', weatherData.message);
     }
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
-  });
+  } catch (error) {
+    console.error('❌ Erreur lors de l’appel API OpenWeatherMap :', error);
+  }
 }
 
+/**
+ * Génère le fichier README.md avec les données mises à jour.
+ */
+async function generateReadMe() {
+  try {
+    const template = fs.readFileSync(MUSTACHE_MAIN_DIR, 'utf8');
+    const output = Mustache.render(template, DATA);
+    fs.writeFileSync('README.md', output);
+    console.log('✅ README.md mis à jour !');
+  } catch (error) {
+    console.error('❌ Erreur lors de la génération du README.md :', error);
+  }
+}
+
+/**
+ * Exécute les différentes tâches.
+ */
 async function action() {
-  console.log("🚀 Lancement de la récupération des images Instagram...");
   await setInstagramPosts();
-  console.log("✅ Images Instagram récupérées avec succès !");
-  
-  console.log("📝 Génération du README...");
+  await setWeatherData();
   await generateReadMe();
-  console.log("✅ README mis à jour !");
-  
-  await puppeteerService.close();
+  await puppeteerService.close(); // Ferme Puppeteer proprement
 }
 
 action();

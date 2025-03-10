@@ -1,76 +1,84 @@
 const puppeteer = require('puppeteer');
 
 class PuppeteerService {
-  constructor() {
-    this.browser = null;
-    this.page = null;
-  }
+  browser;
+  page;
 
   async init() {
-    if (!this.browser) {
-      this.browser = await puppeteer.launch({
-        args: [
-          '--no-sandbox',
-          '--disable-setuid-sandbox',
-          '--disable-infobars',
-          '--window-position=0,0',
-          '--ignore-certificate-errors',
-          '--ignore-certificate-errors-spki-list',
-          '--incognito',
-        ],
-        headless: true,
-      });
-    }
+    this.browser = await puppeteer.launch({
+      headless: true, // Mode headless activé pour plus de discrétion
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-infobars',
+        '--window-position=0,0',
+        '--ignore-certificate-errors',
+        '--ignore-certificate-errors-spki-list',
+        '--incognito',
+        '--disable-blink-features=AutomationControlled', // Moins détectable par Instagram
+      ],
+    });
   }
 
   async goToPage(url) {
     try {
-      await this.init();
+      if (!this.browser) {
+        await this.init();
+      }
       this.page = await this.browser.newPage();
 
-      await this.page.setExtraHTTPHeaders({ 'Accept-Language': 'fr-FR' });
+      await this.page.setExtraHTTPHeaders({
+        'Accept-Language': 'fr-FR',
+      });
+
+      // Empêche la détection de Puppeteer par Instagram
+      await this.page.evaluateOnNewDocument(() => {
+        Object.defineProperty(navigator, 'webdriver', { get: () => false });
+      });
+
       await this.page.goto(url, {
-        waitUntil: 'domcontentloaded',
-        timeout: 30000, // Augmente le timeout pour éviter les erreurs de chargement
+        waitUntil: 'networkidle2',
+        timeout: 60000, // Augmente le temps d'attente pour éviter les erreurs de chargement
       });
 
     } catch (error) {
-      console.error(`❌ Erreur lors de la navigation vers ${url} :`, error);
+      console.error(`Erreur lors de la navigation vers ${url} :`, error);
     }
   }
 
   async close() {
-    if (this.page) {
-      await this.page.close();
-    }
-    if (this.browser) {
-      await this.browser.close();
-    }
+    if (this.page) await this.page.close();
+    if (this.browser) await this.browser.close();
   }
 
-  async getLatestInstagramPostsFromAccount(acc, n = 3) {
+  async getLatestInstagramPostsFromAccount(username, count = 3) {
     try {
-      const pageUrl = `https://www.instagram.com/${acc}/`;
-      await this.goToPage(pageUrl);
-      await this.page.waitForTimeout(3000); // Attente pour éviter les restrictions
+      const url = `https://www.instagram.com/${username}/`;
+      await this.goToPage(url);
+      await this.page.waitForTimeout(3000); // Temps d'attente pour le chargement des images
 
-      // Capture d'écran pour debugging
-      await this.page.screenshot({ path: `debug_${acc}.png` });
+      // Vérification si le contenu est bien chargé
+      const htmlContent = await this.page.content();
+      console.log(`HTML de ${username} chargé.`);
 
+      // Extraction des images du profil public
       const images = await this.page.evaluate(() => {
         return Array.from(document.querySelectorAll('img'))
           .map(img => img.src)
-          .slice(0, 3);
+          .slice(0, 3); // On récupère les 3 premières images visibles
       });
 
-      return images.length > 0 ? images : [];
+      if (images.length === 0) {
+        console.warn(`Aucune image trouvée pour ${username}.`);
+      }
 
+      return images;
     } catch (error) {
-      console.error(`❌ Erreur lors de la récupération des posts Instagram de ${acc} :`, error);
+      console.error(`Erreur lors de la récupération des posts Instagram de ${username} :`, error);
       return [];
     }
   }
 }
 
-module.exports = new PuppeteerService();
-
+const puppeteerService = new PuppeteerService();
+module.exports = puppeteerService;
