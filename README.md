@@ -109,17 +109,17 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;static.cdninstagram.com&#x2F;rsrc.php&#x2F;v4&#x2F;yl&#x2F;r&#x2F;1ojlxVWHc_G.png" /> <img width="200" src="https:&#x2F;&#x2F;static.cdninstagram.com&#x2F;rsrc.php&#x2F;v4&#x2F;yr&#x2F;r&#x2F;093c-DX36-y.png" /> <img width="200" src="" /></p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/toursvaldeloiretourisme" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @toursvaldeloiretourisme</a></p>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;static.cdninstagram.com&#x2F;rsrc.php&#x2F;v4&#x2F;yl&#x2F;r&#x2F;1ojlxVWHc_G.png" /> <img width="200" src="https:&#x2F;&#x2F;static.cdninstagram.com&#x2F;rsrc.php&#x2F;v4&#x2F;yr&#x2F;r&#x2F;093c-DX36-y.png" /> <img width="200" src="" /></p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/villedetours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @villedetours</a></p>
 <br><br>
-<p><img width="200" src="https:&#x2F;&#x2F;static.cdninstagram.com&#x2F;rsrc.php&#x2F;v4&#x2F;yl&#x2F;r&#x2F;1ojlxVWHc_G.png" /> <img width="200" src="https:&#x2F;&#x2F;static.cdninstagram.com&#x2F;rsrc.php&#x2F;v4&#x2F;yr&#x2F;r&#x2F;093c-DX36-y.png" /> <img width="200" src="" /></p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Il s'agit des 3 dernières images publiées par <a href="https://www.instagram.com/bienvivreatours" target="_blank"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 @bienvivreatours</a></p>
@@ -128,14 +128,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_20
 <h3> Un point sur la météo en direct de Tours </h3><br>
 <p>Actuellement le temps est :
 	</br>
-	<img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+	<img src="http://openweathermap.org/img/wn/@2x.png"/>
 	</br>
-	<b> 16°C, <i>&emsp;ciel dégagé</i>
+	<b> °C, <i>&emsp;</i>
 	</b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à
-	<b>07:20</b> et se couchera
-	<b>18:55</b>.
+	<b></b> et se couchera
+	<b></b>.
 </p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
