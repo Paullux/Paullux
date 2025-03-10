@@ -118,7 +118,7 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 	</br>
 	<img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;03n@2x.png"/>
 	</br>
-	<b> 6°C, <i>partiellement nuageux</i> </b>
+	<b> 5°C, <i>partiellement nuageux</i> </b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à <b>06:18</b> et se couchera à <b>17:56</b>.</p>
 
