@@ -6,7 +6,6 @@ class PuppeteerService {
 
   async init() {
     this.browser = await puppeteer.launch({
-      headless: true, // Mode headless activé pour plus de discrétion
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
@@ -15,8 +14,8 @@ class PuppeteerService {
         '--ignore-certificate-errors',
         '--ignore-certificate-errors-spki-list',
         '--incognito',
-        '--disable-blink-features=AutomationControlled', // Moins détectable par Instagram
       ],
+      headless: true, // On peut mettre false pour du debugging
     });
   }
 
@@ -31,18 +30,13 @@ class PuppeteerService {
         'Accept-Language': 'fr-FR',
       });
 
-      // Empêche la détection de Puppeteer par Instagram
-      await this.page.evaluateOnNewDocument(() => {
-        Object.defineProperty(navigator, 'webdriver', { get: () => false });
-      });
-
       await this.page.goto(url, {
-        waitUntil: 'networkidle2',
-        timeout: 60000, // Augmente le temps d'attente pour éviter les erreurs de chargement
+        waitUntil: 'networkidle2', // Attendre que le site soit bien chargé
+        timeout: 30000,
       });
 
     } catch (error) {
-      console.error(`Erreur lors de la navigation vers ${url} :`, error);
+      console.error(`❌ Erreur lors de la navigation vers ${url} :`, error);
     }
   }
 
@@ -51,30 +45,29 @@ class PuppeteerService {
     if (this.browser) await this.browser.close();
   }
 
-  async getLatestInstagramPostsFromAccount(username, count = 3) {
+  async getLatestInstagramPostsFromAccount(acc, n = 3) {
     try {
-      const url = `https://www.instagram.com/${username}/`;
-      await this.goToPage(url);
-      await this.page.waitForTimeout(3000); // Temps d'attente pour le chargement des images
+      const page = `https://www.instagram.com/${acc}/`;
 
-      // Vérification si le contenu est bien chargé
+      await this.goToPage(page);
+      await this.page.waitForTimeout(3000); // Attendre un peu après le chargement
+
+      // Debugging : Vérification du HTML
       const htmlContent = await this.page.content();
-      console.log(`HTML de ${username} chargé.`);
+      console.log(`📜 HTML de ${acc} chargé.`);
 
-      // Extraction des images du profil public
-      const images = await this.page.evaluate(() => {
-        return Array.from(document.querySelectorAll('img'))
-          .map(img => img.src)
-          .slice(0, 3); // On récupère les 3 premières images visibles
+      // Capture d’écran pour débogage (activer si besoin)
+      // await this.page.screenshot({ path: `debug-${acc}.png` });
+
+      const nodes = await this.page.evaluate(() => {
+        // Sélecteur mis à jour pour trouver les images sur Instagram
+        const images = document.querySelectorAll('article img');
+        return Array.from(images).map(img => img.src).slice(0, 3);
       });
 
-      if (images.length === 0) {
-        console.warn(`Aucune image trouvée pour ${username}.`);
-      }
-
-      return images;
+      return nodes.length > 0 ? nodes : [];
     } catch (error) {
-      console.error(`Erreur lors de la récupération des posts Instagram de ${username} :`, error);
+      console.error(`❌ Erreur lors de la récupération des posts Instagram de ${acc} :`, error);
       return [];
     }
   }

@@ -47,6 +47,11 @@ async function setInstagramPosts() {
 async function setWeatherData() {
   try {
     const API_KEY = process.env.OPENWEATHER_API_KEY;
+    
+    if (!API_KEY) {
+      throw new Error("❌ Clé API OpenWeatherMap absente. Vérifiez votre fichier .env !");
+    }
+
     const CITY = 'Tours,FR';
     const URL = `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${API_KEY}&units=metric&lang=fr`;
 
@@ -58,7 +63,6 @@ async function setWeatherData() {
       DATA.city_temperature = Math.round(weatherData.main.temp);
       DATA.city_weather_icon = `http://openweathermap.org/img/wn/${weatherData.weather[0].icon}@2x.png`;
 
-      // Convertir timestamp Unix en heure locale
       const sunRiseTime = new Date(weatherData.sys.sunrise * 1000);
       const sunSetTime = new Date(weatherData.sys.sunset * 1000);
 
@@ -67,10 +71,10 @@ async function setWeatherData() {
 
       console.log('✅ Météo mise à jour avec succès.');
     } else {
-      console.error('❌ Erreur lors de la récupération de la météo :', weatherData.message);
+      console.error('❌ Erreur OpenWeatherMap :', weatherData.message);
     }
   } catch (error) {
-    console.error('❌ Erreur lors de l’appel API OpenWeatherMap :', error);
+    console.error('❌ Erreur API OpenWeatherMap :', error);
   }
 }
 
