@@ -1,7 +1,7 @@
 require('dotenv').config();
 const Mustache = require('mustache');
 const fs = require('fs');
-const puppeteerService = require('./services/puppeteer.service');
+const imageService = require("./services/imageService");
 const fetch = require('node-fetch');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
@@ -21,23 +21,21 @@ let DATA = {
 /**
  * Récupère les images des comptes Instagram publics via Puppeteer.
  */
-async function setInstagramPosts() {
-  const accounts = {
-    villedetours: 'villedetours',
-    bienvivreatours: 'bienvivreatours',
-  };
+async function setImagesFromSources() {
+  try {
+    console.log("📸 Récupération des images de Tours depuis des sources ouvertes...");
 
-  for (const [username, profile] of Object.entries(accounts)) {
-    console.log(`Récupération des images pour ${username}...`);
-    const images = await puppeteerService.getLatestInstagramPostsFromAccount(profile);
-    
+    const images = await imageService.getImagesFromSources();
+
     if (images.length > 0) {
-      DATA[`img_${username}_1`] = images[0] || '';
-      DATA[`img_${username}_2`] = images[1] || '';
-      DATA[`img_${username}_3`] = images[2] || '';
-    } else {
-      console.warn(`Aucune image trouvée pour ${username}.`);
+      DATA["img_tours_1"] = images[0] || "";
+      DATA["img_tours_2"] = images[1] || "";
+      DATA["img_tours_3"] = images[2] || "";
     }
+
+    console.log("✅ Images mises à jour avec succès !");
+  } catch (error) {
+    console.error("❌ Erreur lors de la récupération des images :", error);
   }
 }
 
@@ -92,7 +90,7 @@ async function generateReadMe() {
  * Exécute les différentes tâches.
  */
 async function action() {
-  await setInstagramPosts();
+  await setImagesFromSources();
   await setWeatherData();
   await generateReadMe();
   await puppeteerService.close(); // Ferme Puppeteer proprement
