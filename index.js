@@ -1,7 +1,7 @@
+require('dotenv').config();
 const Mustache = require('mustache');
-const fetch = require('node-fetch');
 const fs = require('fs');
-const instagramService = require('./services/instagram.service');
+const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -18,33 +18,45 @@ let DATA = {
 };
 
 async function setInstagramPosts() {
-  const accounts = {
-    toursvaldeloiretourisme: process.env.INSTAGRAM_USER_ID_1,
-    villedetours: process.env.INSTAGRAM_USER_ID_2,
-    bienvivreatours: process.env.INSTAGRAM_USER_ID_3,
-  };
+  const accounts = [
+    "toursvaldeloiretourisme",
+    "villedetours",
+    "bienvivreatours"
+  ];
 
-  for (const [username, userId] of Object.entries(accounts)) {
-    const images = await instagramService.getLatestInstagramPosts(userId);
+  for (const username of accounts) {
+    const images = await puppeteerService.getLatestInstagramPostsFromAccount(username);
     if (images.length > 0) {
       DATA[`img_${username}_1`] = images[0] || '';
       DATA[`img_${username}_2`] = images[1] || '';
       DATA[`img_${username}_3`] = images[2] || '';
+    } else {
+      console.warn(`⚠️ Aucune image trouvée pour ${username}`);
     }
   }
 }
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) throw err;
+    if (err) {
+      console.error("❌ Erreur de lecture du fichier Mustache :", err);
+      return;
+    }
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
   });
 }
 
 async function action() {
+  console.log("🚀 Lancement de la récupération des images Instagram...");
   await setInstagramPosts();
+  console.log("✅ Images Instagram récupérées avec succès !");
+  
+  console.log("📝 Génération du README...");
   await generateReadMe();
+  console.log("✅ README mis à jour !");
+  
+  await puppeteerService.close();
 }
 
 action();
