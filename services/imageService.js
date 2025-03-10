@@ -5,9 +5,9 @@ const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const PIXABAY_API_KEY = process.env.PIXABAY_API_KEY;
 
 const sources = {
-  unsplash: `https://api.unsplash.com/photos/random?query=Tours%20France&count=3&client_id=${UNSPLASH_ACCESS_KEY}`,
-  pixabay: `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=Tours+France&image_type=photo&per_page=3`,
-  wikimedia: `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=images&gimlimit=3&prop=imageinfo&iiprop=url&titles=Category:Tours_(France)`,
+  unsplash: `https://api.unsplash.com/photos/random?query=ville+de+Tours+France&count=3&client_id=${UNSPLASH_ACCESS_KEY}`,
+  pixabay: `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=ville+de+Tours+France&image_type=photo&per_page=3`,
+  wikimedia: `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category:Tours_(France)&gcmtype=file&prop=imageinfo&iiprop=url&gcmlimit=3`
 };
 
 async function getImagesFromUnsplash() {
@@ -52,10 +52,8 @@ async function getImagesFromWikimedia() {
 async function getImagesFromSources() {
   let images = await getImagesFromUnsplash();
   if (images.length === 0) images = await getImagesFromPixabay();
-  if (images.length === 0) images = await getImagesFromWikimedia(); // Wikimedia en dernier recours
+  if (images.length === 0) images = await getImagesFromWikimedia();
   return images.length > 0 ? images : ["https://via.placeholder.com/600x400?text=Image+non+disponible"];
 }
 
 module.exports = { getImagesFromSources };
-
-
