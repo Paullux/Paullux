@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const sleep = require("sleep-promise");
+
 class PuppeteerService {
   browser;
   page;
@@ -11,101 +11,66 @@ class PuppeteerService {
         '--disable-setuid-sandbox',
         '--disable-infobars',
         '--window-position=0,0',
-        '--ignore-certifcate-errors',
-        '--ignore-certifcate-errors-spki-list',
+        '--ignore-certificate-errors',
+        '--ignore-certificate-errors-spki-list',
         '--incognito',
-        // '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"', //
       ],
-      // headless: false,
+      headless: true,
     });
   }
 
-  /**
-   *
-   * @param {string} url
-   */
   async goToPage(url) {
-    if (!this.browser) {
-      await this.init();
+    try {
+      if (!this.browser) {
+        await this.init();
+      }
+      this.page = await this.browser.newPage();
+
+      await this.page.setExtraHTTPHeaders({
+        'Accept-Language': 'fr-FR',
+      });
+
+      await this.page.goto(url, {
+        waitUntil: 'domcontentloaded',
+        timeout: 30000, // Augmente le temps d'attente pour éviter les échecs
+      });
+
+    } catch (error) {
+      console.error(`Erreur lors de la navigation vers ${url} :`, error);
     }
-    this.page = await this.browser.newPage();
-
-    await this.page.setExtraHTTPHeaders({
-      'Accept-Language': 'fr-FR',
-    });
-
-    //await this.page.goto(url, {
-    //  waitUntil: `networkidle0`,
-    //});
   }
 
   async close() {
-    await this.page.close();
-    await this.browser.close();
+    if (this.page) await this.page.close();
+    if (this.browser) await this.browser.close();
   }
 
-  /**
-   *
-   * @param {string} acc Account to crawl
-   * @param {number} n Qty of image to fetch
-   */
-  async getLatestInstagramPostsFromAccount(acc, n) {
+  async getLatestInstagramPostsFromAccount(acc, n = 3) {
     try {
-      const page = `https://dumpor.com/v/${acc}`;
-      await this.goToPage(page);
-      let previousHeight;
+      const page = `https://www.instagram.com/${acc}/`;
 
-      previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-      await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-      // ?? Doesn't seem to be needed
-      // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-      //await this.page.waitForTimeout(1000);
-      await this.page.goto(page, { waitUntil: 'domcontentloaded' });
-      //await sleep(2000);
+      await this.goToPage(page);
+      await this.page.waitForTimeout(2000);
+
+      // Vérification si le contenu s'affiche bien
+      const htmlContent = await this.page.content();
+      console.log(htmlContent); // Debugging pour voir si Instagram charge bien
+
+      // Capture d'écran pour debug
+      await this.page.screenshot({ path: 'debug.png' });
 
       const nodes = await this.page.evaluate(() => {
-        const images = document.querySelectorAll(`.content__img`);
-        return [].map.call(images, img => img.src);
+        const images = document.querySelectorAll('img');
+        return Array.from(images).map(img => img.src).slice(0, 3);
       });
 
-      return nodes.slice(0, 3);
+      return nodes.length > 0 ? nodes : [];
     } catch (error) {
-      console.log('Error', error);
-      process.exit();
+      console.error('Erreur lors de la récupération des posts Instagram :', error);
+      return [];
     }
   }
-
-  // async getLatestMediumPublications(acc, n) {
-  //   const page = `https://medium.com/${acc}`;
-
-  //   await this.goToPage(page);
-
-  //   console.log('PP', page);
-  //   let previousHeight;
-
-  //   try {
-  //     previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-  //     console.log('MED1');
-  //     await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-  //     console.log('MED2', previousHeight);
-  //     await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-  //     console.log('MED3');
-  //     await this.page.waitFor(1000);
-  //     console.log('MED4');
-
-  //     const nodes = await this.page.evaluate(() => {
-  //       const posts = document.querySelectorAll('.fs.ft.fu.fv.fw.z.c');
-  //       return [].map.call(posts);
-  //     });
-  //     console.log('POSTS', nodes);
-  //     return;
-  //   } catch (error) {
-  //     console.log('Error', error);
-  //     process.exit();
-  //   }
-  // }
 }
 
 const puppeteerService = new PuppeteerService();
-
 module.exports = puppeteerService;
