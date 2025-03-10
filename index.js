@@ -93,7 +93,6 @@ async function action() {
   await setImagesFromSources();
   await setWeatherData();
   await generateReadMe();
-  await puppeteerService.close(); // Ferme Puppeteer proprement
 }
 
 action();
