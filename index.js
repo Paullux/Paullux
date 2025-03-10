@@ -85,7 +85,7 @@ async function generateReadMe() {
  */
 async function action() {
   await setInstagramPosts();
-  await setWeatherData();
+  await setWeatherInformation();
   await generateReadMe();
   await puppeteerService.close(); // Ferme Puppeteer proprement
 }
