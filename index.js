@@ -44,26 +44,34 @@ async function setInstagramPosts() {
 /**
  * Récupère la météo actuelle de Tours via OpenWeatherMap.
  */
-async function setWeatherInformation() {
-  await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=tours&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric&lang=fr`
-  )
-    .then(r => r.json())
-    .then(r => {
-      DATA.city_temperature = Math.round(r.main.temp);
-      DATA.city_weather = r.weather[0].description;
-      DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('fr-FR', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Europe/Paris',
-      });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('fr-FR', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Europe/Paris',
-      });
-    });
+async function setWeatherData() {
+  try {
+    const API_KEY = process.env.OPENWEATHER_API_KEY;
+    const CITY = 'Tours,FR';
+    const URL = `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${API_KEY}&units=metric&lang=fr`;
+
+    const response = await fetch(URL);
+    const weatherData = await response.json();
+
+    if (weatherData.cod === 200) {
+      DATA.city_weather = weatherData.weather[0].description;
+      DATA.city_temperature = Math.round(weatherData.main.temp);
+      DATA.city_weather_icon = `http://openweathermap.org/img/wn/${weatherData.weather[0].icon}@2x.png`;
+
+      // Convertir timestamp Unix en heure locale
+      const sunRiseTime = new Date(weatherData.sys.sunrise * 1000);
+      const sunSetTime = new Date(weatherData.sys.sunset * 1000);
+
+      DATA.sun_rise = sunRiseTime.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+      DATA.sun_set = sunSetTime.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+
+      console.log('✅ Météo mise à jour avec succès.');
+    } else {
+      console.error('❌ Erreur lors de la récupération de la météo :', weatherData.message);
+    }
+  } catch (error) {
+    console.error('❌ Erreur lors de l’appel API OpenWeatherMap :', error);
+  }
 }
 
 /**
@@ -85,7 +93,7 @@ async function generateReadMe() {
  */
 async function action() {
   await setInstagramPosts();
-  await setWeatherInformation();
+  await setWeatherData();
   await generateReadMe();
   await puppeteerService.close(); // Ferme Puppeteer proprement
 }
