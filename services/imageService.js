@@ -4,8 +4,8 @@ const fetch = require("node-fetch");
 
 const sources = {
   wikimedia: "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&generator=images&titles=Touraine.jpg&origin=*&iiprop=url",
-  unsplash: "https://api.unsplash.com/photos/random?query=Tours%20France&client_id=YOUR_UNSPLASH_ACCESS_KEY",
-  pixabay: "https://pixabay.com/api/?key=YOUR_PIXABAY_API_KEY&q=Tours+France&image_type=photo"
+  unsplash: "https://api.unsplash.com/photos/random?query=Tours%20France&client_id=UNSPLASH_ACCESS_KEY",
+  pixabay: "https://pixabay.com/api/?key=PIXABAY_API_KEY&q=Tours+France&image_type=photo"
 };
 
 async function fetchImage(url, parser) {
