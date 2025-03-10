@@ -1,45 +1,45 @@
-require("dotenv").config({ path: "./.env" });
+require("dotenv").config();
 
 const fetch = require("node-fetch");
+
+const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
+const PIXABAY_API_KEY = process.env.PIXABAY_API_KEY;
 
 const sources = {
   wikimedia: "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&generator=images&titles=Touraine.jpg&origin=*&iiprop=url",
   unsplash: `https://api.unsplash.com/photos/random?query=Tours%20France&client_id=${UNSPLASH_ACCESS_KEY}`,
-  pixabay: `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=Tours+France&image_type=photo`
+  pixabay: `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=Tours+France&image_type=photo`,
 };
 
-async function fetchImage(url, parser) {
+async function getImageFromUnsplash() {
   try {
-    const response = await fetch(url);
+    const response = await fetch(sources.unsplash);
     const data = await response.json();
-    return parser(data);
+    return data.urls ? data.urls.regular : null;
   } catch (error) {
-    console.error(`❌ Erreur lors de la récupération d'une image : ${error}`);
+    console.error("❌ Erreur Unsplash :", error);
     return null;
   }
 }
 
-async function getImagesFromSources() {
-  const images = [];
-
-  // Wikimedia Commons
-  const wikimediaImg = await fetchImage(sources.wikimedia, (data) => {
-    const pages = data.query?.pages;
-    if (!pages) return null;
-    return Object.values(pages)[0]?.imageinfo[0]?.url || null;
-  });
-
-  if (wikimediaImg) images.push(wikimediaImg);
-
-  // Unsplash
-  const unsplashImg = await fetchImage(sources.unsplash, (data) => data.urls?.regular || null);
-  if (unsplashImg) images.push(unsplashImg);
-
-  // Pixabay
-  const pixabayImg = await fetchImage(sources.pixabay, (data) => data.hits?.[0]?.webformatURL || null);
-  if (pixabayImg) images.push(pixabayImg);
-
-  return images.slice(0, 3); // Prend jusqu'à 3 images max
+async function getImageFromPixabay() {
+  try {
+    const response = await fetch(sources.pixabay);
+    const data = await response.json();
+    return data.hits.length > 0 ? data.hits[0].webformatURL : null;
+  } catch (error) {
+    console.error("❌ Erreur Pixabay :", error);
+    return null;
+  }
 }
 
-module.exports = { getImagesFromSources };
+async function getImage() {
+  let image = await getImageFromUnsplash();
+  if (!image) {
+    image = await getImageFromPixabay();
+  }
+  return image || "https://via.placeholder.com/600x400?text=Image+non+disponible";
+}
+
+module.exports = { getImage };
+
