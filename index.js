@@ -31,7 +31,8 @@ async function setImagesFromSources() {
   console.log("📸 Récupération des images de Tours...");
   try {
     const images = await imageService.getImagesFromSources();
-
+    console.log("Images recues:", images);
+    console.log("Count:", images?.length);
     for (let i = 0; i < 3; i++) {
       DATA[`img_tours_${i + 1}`] = images[i] || "";
     }
