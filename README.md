@@ -25,16 +25,16 @@ width="30"/> Hey ! Salut vous.</h1>
 </p>
 <br>
 <h3>Mes stats GitHub</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Paullux&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="github-readme-stats-iota-ten-15.vercel.app/api?username=Paullux&locale=fr&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <br>
 <h3>Mon top languages GitHub</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
+<img src="https://github-readme-stats-iota-ten-15.vercel.app/api/top-langs?username=Paullux&show_icons=true&locale=fr&line_height=20&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
 <br>
 <h3>Graph des contributions GitHub</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paullux&theme=react-dark" alt="contributions" />
 <br>
 <h3>Visite sur mon profil GitHub</h3>
-<img src="https://profile-counter.glitch.me/{Paullux}/count.svg" alt="Paullux :: Visitor's Count" />
+<img src="https://komarev.com/ghpvc/?username=Paullux&style=for-the-badge&color=1abc9c" alt="Paullux :: Visitor's Count" />
 <br>
 <h3>Projets open source (entres autres)</h3>
 <table>
@@ -110,9 +110,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
 <p>
-  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk4NDE0MTJ8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
-  <img width="200" src="" />
-  <img width="200" src="" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk4NjExOTR8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g46fa3e50e93d0c8c46c579b87d43a4bc7359f77aa77eb22ab756587472ff4eb33dd9dfe0298ef1809ec99ef39bb21333_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g4e64b64344d617aec48ff06602e6c68ff860d0c27c1c325696d5e8404ee984bcf9ea3ad12445bbf3a8fda1b74b446ee2b82656a6d1a17c58d667448da3c450df_640.jpg" />
 </p>
 <p>Images récupérées depuis Unsplash, Pixabay ou Wikimedia Commons.</p>
 <br>
@@ -120,9 +120,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Un point sur la météo en direct de Tours</h3><br>
 <p>Actuellement, le temps est :
 	</br>
-	<img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png"/>
+	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png"/>
 	</br>
-	<b> 5°C, <i>couvert</i> </b>
+	<b> 8°C, <i>couvert</i> </b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à <b>07:25</b> et se couchera à <b>16:56</b>.</p>
 
