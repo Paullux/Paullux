@@ -19,17 +19,25 @@ let DATA = {
 };
 
 /**
- * Récupère les images des comptes Instagram publics via Puppeteer.
+ * Récupère les Images depuis Unsplash, Pixabay ou Wikimedia Commons..
  */
+function looksLikeDirectImageUrl(u) {
+  return typeof u === "string"
+    && u.startsWith("https://")
+    && /\.(png|jpe?g|webp|gif)(\?.*)?$/i.test(u);
+}
+
 async function setImagesFromSources() {
-  console.log("📸 Récupération des images de Tours depuis des sources ouvertes...");
+  console.log("📸 Récupération des images de Tours...");
   try {
     const images = await imageService.getImagesFromSources();
-    for (let i = 0; i < images.length; i++) {
+
+    for (let i = 0; i < 3; i++) {
       DATA[`img_tours_${i + 1}`] = images[i] || "";
     }
-  } catch (error) {
-    console.error("❌ Erreur lors de la récupération des images :", error);
+  } catch (e) {
+    console.error("❌ Erreur images:", e);
+    for (let i = 0; i < 3; i++) DATA[`img_tours_${i + 1}`] = FALLBACKS[i];
   }
 }
 
@@ -48,7 +56,7 @@ async function setWeatherData() {
     if (weatherData.cod === 200) {
       DATA.city_weather = weatherData.weather[0].description;
       DATA.city_temperature = Math.round(weatherData.main.temp);
-      DATA.city_weather_icon = `http://openweathermap.org/img/wn/${weatherData.weather[0].icon}@2x.png`;
+      DATA.city_weather_icon = `https://openweathermap.org/img/wn/${weatherData.weather[0].icon}@2x.png`;
 
       // Convertir timestamp Unix en heure locale
       const sunRiseTime = new Date(weatherData.sys.sunrise * 1000);
