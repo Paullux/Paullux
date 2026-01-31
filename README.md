@@ -49,49 +49,49 @@ width="30"/> Hey ! Salut vous.</h1>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Heficience/Heficience-menu"><b>Heficience-Menu</b></a></td>
+      <td><a href="https://github.com/Paullux/HOSDVK-EasyPhone"><b>Heficience-Menu</b></a></td>
       <td><img alt="Stars"
-src="https://img.shields.io/github/stars/Heficience/Heficience-menu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/stars/Paullux/HOSDVK-EasyPhone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks"
-src="https://img.shields.io/github/forks/Heficience/Heficience-menu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/forks/Paullux/HOSDVK-EasyPhone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues"
-src="https://img.shields.io/github/issues/Heficience/Heficience-menu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues/Paullux/HOSDVK-EasyPhone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests"
-src="https://img.shields.io/github/issues-pr/Heficience/Heficience-menu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues-pr/Paullux/HOSDVK-EasyPhone?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a
-href="https://github.com/Heficience/heficience-site-web"><b>Site web d'Heficience</b></a></td>
+href="https://github.com/Bit-Scripts/MPRIS-Discord-Presence"><b>Site web d'Heficience</b></a></td>
       <td><img alt="Stars"
-src="https://img.shields.io/github/stars/Heficience/heficience-site-web?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/stars/Bit-Scripts/MPRIS-Discord-Presence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks"
-src="https://img.shields.io/github/forks/Heficience/heficience-site-web?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/forks/Bit-Scripts/MPRIS-Discord-Presence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues"
-src="https://img.shields.io/github/issues/Heficience/heficience-site-web?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues/Bit-Scripts/MPRIS-Discord-Presence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests"
-src="https://img.shields.io/github/issues-pr/Heficience/heficience-site-web?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues-pr/Bit-Scripts/MPRIS-Discord-Presence?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Heficience/HSuperMenu"><b>Installateur de nos solutions</b></a></td>
+      <td><a href="https://github.com/Bit-Scripts/musique"><b>Installateur de nos solutions</b></a></td>
       <td><img alt="Stars"
-src="https://img.shields.io/github/stars/Heficience/HSuperMenu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/stars/Bit-Scripts/musique?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks"
-src="https://img.shields.io/github/forks/Heficience/HSuperMenu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/forks/Bit-Scripts/musique?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues"
-src="https://img.shields.io/github/issues/Heficience/HSuperMenu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues/Bit-Scripts/musique?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests"
-src="https://img.shields.io/github/issues-pr/Heficience/HSuperMenu?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues-pr/Bit-Scripts/musique?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-      <td><a href="https://github.com/Heficience/Heficience-Launcher-Android"><b>Le Launcher Android, EasyPhone sur le Google PlayStore</b></a></td>
+      <td><a href="https://github.com/Bit-Scripts/APPIPTV_Freebox_et_HDHomeRun"><b>Le Launcher Android, EasyPhone sur le Google PlayStore</b></a></td>
       <td><img alt="Stars"
-src="https://img.shields.io/github/stars/Heficience/Heficience-Launcher-Android?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/stars/Bit-Scripts/APPIPTV_Freebox_et_HDHomeRun?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks"
-src="https://img.shields.io/github/forks/Heficience/Heficience-Launcher-Android?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/forks/Bit-Scripts/APPIPTV_Freebox_et_HDHomeRun?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues"
-src="https://img.shields.io/github/issues/Heficience/Heficience-Launcher-Android?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues/Bit-Scripts/APPIPTV_Freebox_et_HDHomeRun?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests"
-src="https://img.shields.io/github/issues-pr/Heficience/Heficience-Launcher-Android?style=flat-square&labelColor=343b41"/></td>
+src="https://img.shields.io/github/issues-pr/Bit-Scripts/APPIPTV_Freebox_et_HDHomeRun?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
 			<td><a href="https://github.com/Paullux/FranceTV"><b>L'appli FranceTV pour Windows et/ou Linux</b></a></td>
@@ -110,9 +110,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
 <p>
-  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk4NjE1MjB8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g16fa0cc31eba46f82616ba50712fdc2dbb0c6bbfbd9fa415dd4a60fc86825a53f65e4e44aed43b9bc755ab86d40a68bb_640.jpg" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g54238d1c1bcf06e31cf28ad67331e5315b7ebdd6385cdf7a6384e6a38d2ff4c10aac0e61895d7e8ae60ecbb1077225bb5729d919e265c8e18baaa1177a8b80f7_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk4NjIxODV8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;gf935b2e0170602fdc2e55941e8657f7bfcb66a0cbbe3bf35c569f9928e06cdd30a1b21efd016da7265cf0d438da769e8_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g01149895e6742406d3bf5b8f26c9748f9c9a9d367f74b8f8af719d0c1ea8fe4950a9f1d374b1c91c11b1ee7e72e3f876d8971a9293f944af5c611ec0fa9cb1be_640.jpg" />
 </p>
 <p>Images récupérées depuis Unsplash, Pixabay ou Wikimedia Commons.</p>
 <br>
