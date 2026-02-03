@@ -110,9 +110,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
 <p>
-  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAwODQxODd8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;gb674cba0e2e229dc26f0c0dbaf7d3c8520a0ed90a23b91148f7696f6c967f706e9f3d6624eb987dc23b95d6bd83638e2_640.jpg" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g77cc71dbd5b700ed9d9b10b0499d07cc2535bbf769c2427a384fc3b1aad04da651831c63571a6e8d1ab38f5a712e72d5c1b3df893101fd5df1fd795cfd94a62b_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAxMDE0MDd8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g2fc099875922da3a9ce67bc17ff02b579bd88386ea7dbc30f163e42f22e63c5fe5d8301dd82e13b2699121ecab26c3aa_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g70e4640048e1d571b704124ac2cea41857446fe5a5578e7d2495fbd85ebe0da238ce530d1ee44f6e73705fae1cc01855023cc3ba2157c5b98916ee662008ed8d_640.jpg" />
 </p>
 <p>Images récupérées depuis Unsplash, Pixabay ou Wikimedia Commons.</p>
 <br>
@@ -122,7 +122,7 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 	</br>
 	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png"/>
 	</br>
-	<b> 9°C, <i>couvert</i> </b>
+	<b> 9°C, <i>nuageux</i> </b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à <b>07:21</b> et se couchera à <b>17:01</b>.</p>
 
