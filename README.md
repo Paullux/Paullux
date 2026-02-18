@@ -110,9 +110,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
 <p>
-  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzNTQ1NjV8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;gaced298f3cfdd80a84102a4572db44c5df2dac3dc6a309703daa8ec93cbb426f3d2db8c34fa29cca0d4ca4f85a2be846_640.jpg" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g28f918ce26bb3d22a494e5ae73b145abe1055709b596810f5a154295caeb44861c4515be85a57b20a343f098c8aa900c77defd2347466140e31051065efcc2ae_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzODAzMTh8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g9beb400799adbcd62df6800797e504ed5a86a015cd8716a2ec5eabdb52fbac73a4401d0b02c6fdbccf8594452e15eeb5_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g784482b293a68a0a5e54cffb1f201f37b1e49c7634508bb1feac8cc23fcfa98f624530ab63c3d31e1d6725a046f0ff8927a14fd899dba52c825154dd32a308c1_640.jpg" />
 </p>
 <p>Images récupérées depuis Unsplash, Pixabay ou Wikimedia Commons.</p>
 <br>
@@ -120,11 +120,11 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Un point sur la météo en direct de Tours</h3><br>
 <p>Actuellement, le temps est :
 	</br>
-	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10n@2x.png"/>
+	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;09n@2x.png"/>
 	</br>
-	<b> 8°C, <i>légère pluie</i> </b>
+	<b> 7°C, <i>bruine légère</i> </b>
 </p>
-<p>Aujourd'hui, le soleil s'est levé à <b>06:59</b> et se couchera à <b>17:23</b>.</p>
+<p>Aujourd'hui, le soleil s'est levé à <b>06:58</b> et se couchera à <b>17:24</b>.</p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
 <p><a href="https://github.com/Paullux" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PaulWOISARD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/paul-woisard-147308b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discord.gg/2dxKDJ2RNK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
