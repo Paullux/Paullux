@@ -110,9 +110,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
 <p>
-  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIyNjA2MDF8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g6ad8718d882cf0885b29b58e9b6acfdabd2cb5806ae4adf3ea86450d35d2dff828c4c73babcd3b6e060ce66564b3c205_640.jpg" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;gf8de39551669dce18836919280ecadd658357a9f924a7d20796a783e47fc73b9e7c3ae16aa6d84e8724b293ba1241124cb8b6dfe0d5f63e82e0e2ddd25157712_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIyODI1Mzd8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g509eda763f0489da827e4dc149db389eb1bb78576ca1363b8477e750d2b153c918c38ec642a3b3c36a1d3457fde795ea_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;gc7b6a3f42bb8671386e243c5ccd4eb89b036308d6e580451584cd46909e0513bfd1a9461f9254e1c83e8467488a61e7f597925553d0567875fdf3e74482edce8_640.jpg" />
 </p>
 <p>Images récupérées depuis Unsplash, Pixabay ou Wikimedia Commons.</p>
 <br>
@@ -120,9 +120,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Un point sur la météo en direct de Tours</h3><br>
 <p>Actuellement, le temps est :
 	</br>
-	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png"/>
+	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png"/>
 	</br>
-	<b> 8°C, <i>nuageux</i> </b>
+	<b> 13°C, <i>nuageux</i> </b>
 </p>
 <p>Aujourd'hui, le soleil s'est levé à <b>06:40</b> et se couchera à <b>17:39</b>.</p>
 
