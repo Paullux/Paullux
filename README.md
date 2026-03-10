@@ -110,9 +110,9 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Voici des images pour découvrir <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Tours !</h3>
 <br><br>
 <p>
-  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwODIyODh8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;gc67f48cb4dbbfc9f6708c8ffd26abbac82e97d1fe49c29464bcef8ab47324c08328955e4482f35afed7288af2a2f0ec1_640.jpg" />
-  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g67df5664ccc0287238cc5c2570755260d1f313ffaaa262eba2b0e4d28bdeb7356141144f40c07200d99244f068cbf70882d7c441d8f9d66a4461f80a485ae9c2_640.jpg" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1661585248792-33764253160b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMxMDc3MjN8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1724153727274-24ecd3b5da13?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w1ODc4ODV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMxMDc3MjN8&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" />
+  <img width="200" src="https:&#x2F;&#x2F;pixabay.com&#x2F;get&#x2F;g6f0e9e5fd6fc4ce267c114291346dc7fe9a469d087cc5ec1849dd83f30a98dae0314d8c9f19b8a7da15b8f94c36ad10b_640.jpg" />
 </p>
 <p>Images récupérées depuis Unsplash, Pixabay ou Wikimedia Commons.</p>
 <br>
@@ -120,11 +120,11 @@ src="https://img.shields.io/github/issues-pr/Paullux/FranceTV?style=flat-square&
 <h3>Un point sur la météo en direct de Tours</h3><br>
 <p>Actuellement, le temps est :
 	</br>
-	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png"/>
+	<img src="https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png"/>
 	</br>
-	<b> 12°C, <i>couvert</i> </b>
+	<b> 8°C, <i>ciel dégagé</i> </b>
 </p>
-<p>Aujourd'hui, le soleil s'est levé à <b>06:22</b> et se couchera à <b>17:53</b>.</p>
+<p>Aujourd'hui, le soleil s'est levé à <b>06:20</b> et se couchera à <b>17:54</b>.</p>
 
 <h3>Où me retrouver, mes réseaux :</h3>
 <p><a href="https://github.com/Paullux" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PaulWOISARD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/paul-woisard-147308b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discord.gg/2dxKDJ2RNK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
